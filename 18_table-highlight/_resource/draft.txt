@@ -1,0 +1,15 @@
+----------【HTML】----------
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+
+
+Table Row and Column Highlighting
+
+A	B	C	D	E	F	G
+a	1000	2000	3000	4000	5000	6000	7000
+b	2000	3000	4000	5000	6000	7000	8000
+c	3000	4000	5000	6000	7000	8000	9000
+d	4000	5000	6000	7000	8000	9000	10000
+e	5000	6000	7000	8000	9000	10000	11000
+f	6000	7000	8000	9000	10000	11000	12000
+g	7000	8000	9000	10000	11000	12000	13000
